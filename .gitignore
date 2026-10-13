@@ -1,0 +1,19 @@
+# Compiled Java classes
+*.class
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+nbproject/private/
+
+# Python cache (diagram/report generators)
+__pycache__/
+*.pyc
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
